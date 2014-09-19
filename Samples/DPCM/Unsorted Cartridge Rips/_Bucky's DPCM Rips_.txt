@@ -1,0 +1,470 @@
+March 05 2009
+
+- - - - - - - - - - - - - - - - - - - -
+Abadox
+
+$C000 - Bass Drum
+$C0C0 - Tom 1
+$C1C0 - Snare Drum
+$C040 - Tom 2
+$C140 - Tom 3
+
+- - - - - - - - - - - - - - - - - - - -
+A Boy and His Blob
+
+$E000 - Bass Drum
+$EBC0 - Bongo
+$EF00 - Snare Drum
+$F4C0 - Rim Click
+$F8C0 - Tom / Timbale 1
+$F180 - Tom / Timbale 2
+
+- - - - - - - - - - - - - - - - - - - -
+Akumajou Densetsu / Castlevania 3 (J)
+
+$C000 - Bass Drum
+$C040 - Snare Drum
+$C240 - Tom
+$C900 - Evil Laugh / Moan (Vocal)
+
+- - - - - - - - - - - - - - - - - - - -
+Bucky O'Hare
+
+$FE00 - Snare Drum
+$FF40 - Bass Drum
+
+- - - - - - - - - - - - - - - - - - - -
+Crisis Force
+
+$C040 - Tom
+$C240 - Snare Drum
+$C540 - Bass Drum
+
+- - - - - - - - - - - - - - - - - - - -
+Darklord
+
+$C000 - Bass Drum
+$C0C0 - Snare Drum
+$C1C0 - Tom
+$C3C0 - Moan (Vocal)
+
+- - - - - - - - - - - - - - - - - - - -
+Esper Dream 2
+
+$E000 - Snare Drum 1
+$E1C0 - Snare Drum 2
+$E140 - Bass Drum
+
+- - - - - - - - - - - - - - - - - - - -
+Fester's Quest
+
+$C000 - Bass (Pitched) = D
+$C200 - Bass ("") = C
+$C400 - Bass ("") = B
+$C600 - Bass ("") = A#
+$C800 - Orchestra Hit (Pitched) = c
+$CC00 - Orchestra Hit ("") = A#
+
+- - - - - - - - - - - - - - - - - - - -
+Final Mission
+
+$FC80 - Bass Drum
+$FD40 - Snare Drum
+
+- - - - - - - - - - - - - - - - - - - -
+Fire 'N Ice / Solomon's Key 2
+
+$C000 - Bass (Pitched) = A
+$C1C0 - Bass ("") = A#
+$C8C0 - Bass ("") = D
+$C380 - Bass ("") = B
+$C540 - Bass ("") = C
+$C700 - Bass ("") = C#
+$CA80 - Bass ("") = D#
+$CC40 - Bass ("") = E
+$CE00 - Bass ("") = F
+$CFC0 - Bass ("") = F#
+$D6C0 - Bass ("") = A#
+$D180 - Bass ("") = G
+$D340 - Bass ("") = G#
+$D500 - Bass ("") = A
+$D880 - Bass ("") = B
+$DA40 - Bass ("") = C
+$DC00 - Snare Drum
+$DE40 - Bongo
+
+- - - - - - - - - - - - - - - - - - - -
+Gimmick! [GLITCHED / ERRONEOUS]
+
+:(
+
+$C400 - Bass (Pitched)
+$C500 - Bass 2 notes (Pitched)
+$C600 - Bass ("")
+$C800 - Bass ("")
+$CA00 - Bass 2 notes ("")
+$CC00 - Bass ("")
+$CF00 - Bass 2 notes + screech ("")
+$D000 - Bass ("")
+$D200 - Bass ("")
+$D300 - Snare Drum
+$D700 - Staccato Bass (Pitched)
+$D800 - Bass ("")
+
+- - - - - - - - - - - - - - - - - - - -
+Gradius II
+
+$C000 - Tom / Bongo
+$C140 - Tom / Bongo 2
+$C280 - Muted Bongo
+$C340 - Snare Drum
+$C640 - Bass Drum
+
+- - - - - - - - - - - - - - - - - - - -
+Gremlins 2: The New Batch
+
+$C000 - Tom / Bass Drum
+$C200 - Bass (Pitched) = C
+$C600 - Bass ("") = D
+$CA00 - Bass ("") = B
+$CE00 - Bass ("") = C#
+$D200 - Bass ("") = A#
+$D600 - Snare Drum
+
+- - - - - - - - - - - - - - - - - - - -
+Gyruss
+
+$E000 - Bass Drum
+
+- - - - - - - - - - - - - - - - - - - -
+Heavy Shreddin
+
+$C480 - Bass Drum
+$C600 - Snare Drum
+$C880 - High Tom
+$CBC0 - Click/ Percussive Beep
+$CC80 - Low Tom
+$CFC0 - Middle Tom
+
+- - - - - - - - - - - - - - - - - - - -
+The Immortal
+
+$FB00 - Snare Drum
+$FE00 - Bass Drum
+
+- - - - - - - - - - - - - - - - - - - -
+Jackal
+
+$C000 - Bass Drum
+$C0C0 - Snare Drum
+
+- - - - - - - - - - - - - - - - - - - -
+Journey to Silius
+
+$C000 - Bass (Pitched) = A#
+$C400 - Bass ("") = C
+$C800 - Bass ("") = D
+$CC00 - Bass ("") = B
+$D000 - Bass ("") = C#
+
+- - - - - - - - - - - - - - - - - - - -
+Jurassic Park
+
+$E700 - Bass Drum
+$E840 - Snare Drum
+
+- - - - - - - - - - - - - - - - - - - -
+Kick Master
+
+$C000 - Snare Drum
+$C200 - Bass Drum
+
+- - - - - - - - - - - - - - - - - - - -
+Kirby's Adventure
+
+$FC00 - Bass Drum
+$FCC0 - Snare Drum
+$FE80 - Woodblock
+$FF40 - Percussive Bleep
+
+- - - - - - - - - - - - - - - - - - - -
+Lagrange Point
+
+$FE00 - Snare Drum
+$FF40 - Bass Drum
+
+- - - - - - - - - - - - - - - - - - - -
+Metal Max
+
+$C000 - Bass Drum
+$C3C0 - Snare Drum
+$C100 - Tom
+$C680 - Woodblock / Clave
+$CAC0 - Cowbell + Bass Drum
+$CC80 - Cowbell + Tom
+$CE00 - Cowbell
+
+- - - - - - - - - - - - - - - - - - - -
+Monster in my Pocket
+
+$C000 - Tom
+$C1C0 - Snare Drum
+$C4C0 - Scream (Vocal)
+$C340 - Bass Drum
+
+- - - - - - - - - - - - - - - - - - - -
+Ninja Gaiden 2
+
+$FC00 - Snare Drum
+$FE00 - Bass Drum
+
+- - - - - - - - - - - - - - - - - - - -
+Palamedes
+
+$FA80 - Bass Drum
+$FAC0 - Snare Drum
+$FC00 - Timbale
+
+- - - - - - - - - - - - - - - - - - - -
+Parodius Da!
+
+$C3C0 - Bongo
+$C040 - Timbale
+$C280 - Snare Drum
+$C500 - Bass Drum
+
+- - - - - - - - - - - - - - - - - - - -
+Power Blade II
+
+$C000 - Snare Drum
+$C2C0 - Bongo
+$C200 - Bass Drum
+
+- - - - - - - - - - - - - - - - - - - -
+Qix
+
+$C000 - Bass Drum
+$C180 - Snare Drum
+$C380 - Electro Tom
+
+- - - - - - - - - - - - - - - - - - - -
+Race America
+
+$C1C0 - Snare Drum
+$C040 - Bass Drum
+$C440 - Hi Tom
+$C780 - Low Tom
+
+- - - - - - - - - - - - - - - - - - - -
+Recca
+
+$C000 - Bass Drum
+$C100 - Orchestra Hit (Pitched) = F
+$C440 - Shout (Vocal)
+$C780 - Snare Drum
+$C900 - Bass + Snare Drum
+$CB00 - Noisy
+
+- - - - - - - - - - - - - - - - - - - -
+Skate or Die 2
+
+$F800 - Snare Drum
+$FC00 - Bass Drum
+
+- - - - - - - - - - - - - - - - - - - -
+SMB3
+
+$D800 - Tom
+$DB80 - Woodblock / Rim Click
+$E000 - Bass Drum
+$E080 - Snare Drum
+$E980 - Woodblock / Rim Click 2
+$EA80 - Timbale
+$EE00 - Timpani
+$F280 - Bongo
+
+- - - - - - - - - - - - - - - - - - - -
+Snake's Revenge
+
+$C000 - Snare Drum
+$C2C0 - Bass Drum / Click
+$C140 - Noisy / Hi-Hat
+$C180 - Tom
+
+- - - - - - - - - - - - - - - - - - - -
+Super C
+
+$C000 - Tom 
+$C040 - Musical Segment (Rhythm + Pitched)
+$C140 - Snare Drum
+$C340 - Bass Drum
+$C380 - Orchestra Hit (Pitched) = A#
+$C640 - Orchestra Hit ("") = B
+$C900 - Orchestra Hit ("") = C
+$CBc0 - Orchestra Hit ("") = C#
+$CE80 - Orchestra Hit ("") = D#
+$D6C0 - Orchestra Hit ("") = F#
+$D140 - Orchestra Hit ("") = E
+$D400 - Orchestra Hit ("") = F
+$D980 - Orchestra Hit ("") = G
+$DC40 - Orchestra Hit ("") = G#
+$DF80 - Noisy 1
+$E0C0 - Noisy 2
+$E800 - Noisy 3
+$F4C0 - Noisy 4
+
+- - - - - - - - - - - - - - - - - - - -
+Sword Master
+
+$C000 - Bass Drum
+$C080 - Snare Drum
+$C100 - Tom
+$C280 - "Uh!" (Vocal)
+$C480 - "Hyeah!" (Vocal)
+
+- - - - - - - - - - - - - - - - - - - -
+Tecmo Bowl
+
+$E000 - Bass Drum
+$E100 - Snare Drum
+$E300 - Handclap
+$E540 - "Ready" (Vocal)
+$E900 - "Touchdown" (Vocal)
+$F600 - "Down" (Vocal)
+$FB00 - "Hut!" (Vocal)
+
+- - - - - - - - - - - - - - - - - - - -
+Tecmo Super Bowl
+
+$C0C0 - Bass Drum
+$C180 - Snare Drum
+$C380 - Tom
+
+- - - - - - - - - - - - - - - - - - - -
+Thunder & Lightning
+
+$E900 - Snare Drum / Tom
+$ED00 - Bass Drum
+
+- - - - - - - - - - - - - - - - - - - -
+Tiny Toon Adventures
+
+$C000 - Bass Drum
+$C1C0 - Agogo Bell (Lower)
+$C6C0 - Timbale
+$C040 - Agogo Bell (Higher)
+$C380 - Bongo
+$C500 - Handclap
+$C980 - "Doh!" (Vocal)
+
+- - - - - - - - - - - - - - - - - - - -
+Tiny Toon Adventures 2
+
+$C000 - Tom
+$C1C0 - Snare Drum
+$C2C0 - Bass Drum
+$C340 - Bell / Hi Pitch Percussion
+$C580 - Timbale / Steel Drum
+$C740 - Bongo
+
+- - - - - - - - - - - - - - - - - - - -
+TMNT
+
+$C040 - Bass Drum
+
+- - - - - - - - - - - - - - - - - - - -
+TMNT 2
+
+$C2C0 - Bass Drum
+$C040 - Tom
+$C180 - Snare Drum
+
+- - - - - - - - - - - - - - - - - - - -
+TMNT 3
+
+$E000 - Tom
+$E2C0 - Bass Drum
+$E140 - Snare Drum
+$E300 - "Hey!" (Vocal)
+
+- - - - - - - - - - - - - - - - - - - -
+TMNT: Tournament Fighters
+
+$C000 - Tom
+$C1C0 - Snare
+$C2C0 - Bass Drum
+$C6C0 - "Ha ha ha!" (Vocal)
+$C340 - "Euaghh!" (Vocal)
+$C600 - "Aight!" (Vocal)
+$CA40 - "Gah!" (Vocal)
+$CD40 - "Hawh!" (Vocal)
+
+- - - - - - - - - - - - - - - - - - - -
+Top Gun: Dual Fighters
+
+$C000 - Low Tom
+$C100 - Hi Tom
+$C200 - Snare Drum
+$C340 - Bass Drum
+$C580 - "Beat them up" (Vocal)
+$CB40 - "Game Over" (Vocal)
+$D9C0 - Bass (Pitched) = C
+$DAC0 - Bass ("") = A
+$DBC0 - Bass ("") = A
+$DCC0 - Bass ("") = A#
+$DDC0 - Bass ("") = C
+$DEC0 - Bass ("") = D#
+
+- - - - - - - - - - - - - - - - - - - -
+Track and Field II
+
+$DA40 - Bass Drum
+$DB00 - Snare Drum
+$DC80 - Muted Bongo
+$DDC0 - Bongo
+$DF40 - "Foul"
+$E380 - "Disqualified" (Vocal)
+$E680 - "Qualified" (Vocal)
+$ED80 - "On your marks" (Vocal)
+$F500 - "Get set" (Vocal)
+$FB40 - "Euaghh!" (Vocal)
+
+- - - - - - - - - - - - - - - - - - - -
+Twinbee 3
+
+$C000 - Bass Drum
+$C5C0 - Timbale
+$C080 - Snare Drum
+$C300 - Muted Bongo
+$C440 - Bongo
+$C840 - ? (Vocal)
+$CCC0 - ? (Vocal)
+$D6C0 - ? (Vocal)
+$D200 - ? (Vocal)
+$DC80 - ? (Vocal)
+$E100 - ? (Vocal)
+$E440 - ? (Vocal)
+
+- - - - - - - - - - - - - - - - - - - -
+Werewolf: The Last Warrior (US & J)
+
+$FB00 - Bass Drum
+$FBC0 - Snare Drum
+$FCC0 - Tom (J)
+$FD80 - Tom (US)
+
+- - - - - - - - - - - - - - - - - - - -
+Zombie Nation
+
+$C000 - Double Hit
+$C180 - Bass (Pitched) = A#
+$C440 - Bass Drum
+$C580 - Scream (Vocal)
+$C980 - Orchestra Hit (Pitched) = F
+$CD80 - Snare Drum
+$CF80 - Double Hit 2
+$D000 - Brief Noise
+
+- - - - - - - - - - - - - - - - - - - -
+
+http://www.explod.org
